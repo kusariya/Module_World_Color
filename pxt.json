@@ -12,7 +12,8 @@
         "README.md",
         "main.ts",
         "_locales/zh-cn/Module_World_Color-strings.json",
-        "_locales/zh-tw/Module_World_Color-strings.json"
+        "_locales/zh-tw/Module_World_Color-strings.json",
+        "_locales/ja/Module_World_Color-strings.json"
     ],
     "testFiles": [
         "test.ts"
