@@ -1,9 +1,8 @@
 {
 	"Module_World_Color|block": "色認識モジュール",
 	"{id:category}Module_World_Color": "色認識モジュール",
-    "Module_World_Color.GetRGBValue|block": "%value| を取得する",
+    "Module_World_Color.GetRGBValue|block": "色認識モジュール(IIC:SCL/SDA)から %value| を取得する",
     "Module_World_Color.enGetRGB.GetValueR|block": "赤(R)値",
     "Module_World_Color.enGetRGB.GetValueG|block": "緑(G)值",
     "Module_World_Color.enGetRGB.GetValueB|block": "青(B)值"
-
 }
